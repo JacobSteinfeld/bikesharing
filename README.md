@@ -31,6 +31,6 @@
 * A visualization that would be helpful would be to gather information on the population density of Des Moines and compare it to the demographic of the people in the city. 
 * Another visualization that would be helpful would be to see how many people drive cars in Des Moines. If a majority of people drive to work in the heart of Des Moines, an idea like citibikes might not work in such a city.
 
-[https://courses.bootcampspot.com/courses/688/assignments/16316?module_item_id=266114](https://courses.bootcampspot.com/courses/688/assignments/16316?module_item_id=266114)
+[https://public.tableau.com/app/profile/jacob.steinfeld/viz/Citibike_16376214433030/NYCCitiBikes?publish=yes](https://public.tableau.com/app/profile/jacob.steinfeld/viz/Citibike_16376214433030/NYCCitiBikes?publish=yes)
 
 
